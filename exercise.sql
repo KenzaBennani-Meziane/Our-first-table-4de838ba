@@ -1,1 +1,3 @@
-create database Sterrenstelsel;
+create database Sterrenstelsel; 
+use Sterrenstelsel;
+create table planeten;
